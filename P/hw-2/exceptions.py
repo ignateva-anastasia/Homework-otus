@@ -1,1 +1,6 @@
-exceptions.py
+"""
+Объявите следующие исключения:
+- LowFuelError
+- NotEnoughFuel
+- CargoOverload
+"""
